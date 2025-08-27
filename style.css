@@ -39,9 +39,8 @@ header {
   display: none;
   font-size: 2rem;
   cursor: pointer;
-  background:  #666666;
   border: none;
-  background-color: #666666;
+   background-color: #666666 !important;
 }
 
 nav {
@@ -250,6 +249,7 @@ section {
 
 @media (max-width: 768px) {
   .menu-toggle {
+     background-color: #666666 !important;
     display: block;
   }
 
@@ -307,6 +307,7 @@ section {
   font-size: 14px;
   color: #fefefe;
 }
+
 
 
 
