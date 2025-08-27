@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #fefefe;
+  --primary-color: #666666;
   --accent-color: #001F3F;
   --text-color: #fefefe;
   --font-title: 'Playfair Display', serif;
@@ -307,6 +307,7 @@ section {
   font-size: 14px;
   color: #fefefe;
 }
+
 
 
 
