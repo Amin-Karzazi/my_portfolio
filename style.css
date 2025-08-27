@@ -39,7 +39,7 @@ header {
   display: none;
   font-size: 2rem;
   cursor: pointer;
-  background: none;
+  background:  #666666;
   border: none;
   background-color: #666666;
 }
@@ -307,6 +307,7 @@ section {
   font-size: 14px;
   color: #fefefe;
 }
+
 
 
 
