@@ -291,7 +291,7 @@ section {
 }
 
 .project-card {
-  background: #666666;
+  
   border-radius: 12px;
   padding: 20px;
   width: 300px;
@@ -308,6 +308,7 @@ section {
   font-size: 14px;
   color: #fefefe;
 }
+
 
 
 
